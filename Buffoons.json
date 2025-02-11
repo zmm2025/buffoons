@@ -1,0 +1,14 @@
+{
+    "id": "Buffoons",
+    "name": "Buffoons",
+    "author": ["zmm2025"],
+    "description": "Adds comically unbalanced Jokers.",
+    "prefix": "buffoons",
+    "main_file": "Buffoons.lua",
+    "badge_colour": "FD5F55",
+    "badge_text_colour": "000000",
+    "dependencies": [
+        "Steamodded (>=1.*)"
+    ],
+    "version": "1.0.0"
+}
