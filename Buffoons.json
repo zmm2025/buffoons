@@ -5,8 +5,7 @@
     "description": "Adds comically unbalanced Jokers.",
     "prefix": "buffoons",
     "main_file": "Buffoons.lua",
-    "badge_colour": "FD5F55",
-    "badge_text_colour": "000000",
+    "badge_colour": "D93C37",
     "dependencies": [
         "Steamodded (>=1.*)"
     ],
